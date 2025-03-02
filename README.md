@@ -17,7 +17,7 @@ This is a simple Python program that generates programming-related quotes. The p
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Programming-Quote-Generator.git
+   git clone https://github.com/Harish-Arvind/Programming-Quote-Generator.git
    ```
 
 2. Create a `quotes.txt` file in the same directory as the Python script. Add your favorite programming-related quotes, one per line.
