@@ -54,7 +54,7 @@ Feel free to fork this project and submit issues or pull requests. If you have a
 
 ## License
 
-This project is not licensed.
+This project is open source.
 
 ## Contributors
 - `initiator`: TA Mailinh Int3
